@@ -1,2 +1,2 @@
 console.lof('index.js');
-console.lof('Version3');
+console.lof('Version1');
